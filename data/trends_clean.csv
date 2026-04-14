@@ -1,0 +1,87 @@
+post_id,title,category,score,num_comments,author,collected_at
+47767676,5NF and Database Design,technology,26,4,petalmind,2026-04-14T22:39:13.338533
+47766370,Show HN: LangAlpha – what if Claude Code was built for Wall Street?,technology,22,7,zc2610,2026-04-14T22:39:18.545315
+47765374,Show HN: Kontext CLI – Credential broker for AI coding agents in Go,technology,34,9,mc-serious,2026-04-14T22:39:19.569936
+47767606,Show HN: Kelet – Root Cause Analysis agent for your LLM apps,technology,13,2,almogbaku,2026-04-14T22:39:27.768945
+47761625,Multi-Agentic Software Development Is a Distributed Systems Problem,technology,90,43,tie-in,2026-04-14T22:39:35.899408
+47761723,MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres,technology,63,8,adunk,2026-04-14T22:39:44.330531
+47728970,"Write less code, be more responsible",technology,150,97,orhunp_,2026-04-14T22:39:45.481111
+47724408,The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain,technology,21,2,apollinaire,2026-04-14T22:39:47.535700
+47766430,War as a Pretext: Gulf States Are Tightening the Screws on Speech–Again,technology,15,0,hn_acker,2026-04-14T22:39:48.553700
+47753689,Building a CLI for all of Cloudflare,technology,322,105,soheilpro,2026-04-14T22:39:52.645223
+47708457,Rust Threads on the GPU,technology,105,33,PaulHoule,2026-04-14T22:39:54.647836
+47764833,Stanford HAI Index Report 2026,technology,5,0,giuliomagnifico,2026-04-14T22:39:57.035064
+47729046,Air Powered Segment Display? [video],technology,126,12,ProfDreamer,2026-04-14T22:40:01.863836
+47766330,To teach in the era of ChatGPT is to know pain,technology,14,2,ckemere,2026-04-14T22:40:03.119719
+47758347,N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?,technology,86,29,mufeedvh,2026-04-14T22:40:05.537800
+47756772,GAIA – Open-source framework for building AI agents that run on local hardware,technology,140,33,galaxyLogic,2026-04-14T22:40:09.110411
+47767593,Stolen Rockstar Games analytics data leaked by extortion gang,technology,5,1,Brajeshwar,2026-04-14T22:40:10.381002
+47764164,The Case Against Gameplay Loops,technology,49,48,coinfused,2026-04-14T22:40:12.755394
+47750872,Servo is now available on crates.io,technology,463,147,ffin,2026-04-14T22:40:24.212331
+47759292,The AI revolution in math has arrived,technology,99,50,sonabinu,2026-04-14T22:40:27.417465
+47755209,B-trees and database indexes (2024),technology,113,41,tosh,2026-04-14T22:40:29.381676
+47751621,Initial mainline video capture and camera support for Rockchip RK3588,technology,87,27,mfilion,2026-04-14T22:40:31.503530
+47752466,MEMS Array Chip Can Project Video the Size of a Grain of Sand,technology,87,43,bookofjoe,2026-04-14T22:40:32.471054
+47744255,I ran Gemma 4 as a local model in Codex CLI,technology,269,110,dvaughan,2026-04-14T22:40:38.526710
+47733217,Exploiting the most prominent AI agent benchmarks,technology,581,140,Anon84,2026-04-14T22:40:40.487009
+47764975,Man suspected of Molotov attack Sam Altmans home charged with attempted murder,worldnews,13,1,Bender,2026-04-14T22:41:52.180360
+47762994,Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It,worldnews,81,76,adulion,2026-04-14T22:42:33.244508
+47763185,An open letter to the UK Government on digital privacy,worldnews,15,4,vsajip,2026-04-14T22:42:39.247964
+47760360,An Amazon warehouse worker died on the job at Oregon facility,worldnews,14,1,cebert,2026-04-14T22:42:44.352365
+47764690,Amazon to Buy Satellite Operator Globalstar,worldnews,5,0,marc__1,2026-04-14T22:43:03.716266
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",worldnews,438,277,neversaydie,2026-04-14T22:43:54.817012
+47762272,"Linux 7.0 Released with New Hardware Support, Optimizations and Self-Healing XFS",worldnews,23,0,isaacfrond,2026-04-14T22:44:46.399973
+47755938,Warp,worldnews,6,1,Resayours,2026-04-14T22:44:49.318789
+47721946,JSON formatter Chrome plugin now closed and injecting adware,worldnews,287,136,jkl5xx,2026-04-14T22:45:12.936273
+47745261,Vegetative Patients May Be More Aware Than We Knew,worldnews,35,13,bookofjoe,2026-04-14T22:47:09.391959
+47745230,Sam Altman's home targeted in second attack,worldnews,152,362,babelfish,2026-04-14T22:47:17.678639
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,392,367,chabons,2026-04-14T22:47:25.487552
+47729994,Polymarket gamblers betting millions on war,worldnews,159,129,sandebert,2026-04-14T22:48:25.408754
+47693960,Flashback to a time when government reports were works of art,worldnews,30,12,NaOH,2026-04-14T22:48:33.115998
+47722566,DOJ wants to scrap Watergate-era rule that makes presidential records public,worldnews,262,69,tlhunter,2026-04-14T22:49:00.720273
+47761215,Pepsi was warned $7 for Doritos was too much. Now they are paying the price,worldnews,9,0,matthest,2026-04-14T22:49:13.515219
+47718694,"""Negative"" views of Broadcom driving VMware migrations, rival says",worldnews,76,39,breve,2026-04-14T22:49:16.678426
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,sports,459,256,m-hodges,2026-04-14T22:50:29.543768
+47761825,Roblox devs now need a subscription to share their games freely,sports,64,67,hallole,2026-04-14T22:51:11.030741
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,130,38,radeeyate,2026-04-14T22:51:33.678967
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,sports,625,152,iceberger2001,2026-04-14T22:52:16.946795
+47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,sports,237,56,joko42,2026-04-14T22:52:39.995242
+47698111,Bevy game development tutorials and in-depth resources,sports,139,72,GenericCanadian,2026-04-14T22:52:40.941343
+47749295,Show HN: Equirect – a Rust VR video player,sports,13,1,greggman65,2026-04-14T22:53:12.042814
+47747248,"Haunt, the 70s text adventure game, is now playable on a website",sports,82,26,jscalo,2026-04-14T22:53:33.700793
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,120,36,pruz,2026-04-14T22:55:54.958919
+47723243,Combining spicy foods with mint boosts anti-inflammatory effects 100x or more,sports,87,50,joeax,2026-04-14T22:57:08.741443
+47704430,Can It Resolve Doom? Game Engine in 2k DNS Records,sports,10,2,choult,2026-04-14T22:57:10.736461
+47717514,"Inflation Rose to 3.3% in March, Driven by Rising Fuel Costs",sports,63,3,JumpCrisscross,2026-04-14T22:57:49.314656
+47758870,Let's Talk Space Toilets,science,27,3,zdw,2026-04-14T22:58:11.890092
+47738343,The Physics of GPS,science,163,35,maouida,2026-04-14T23:00:37.692036
+47701769,The Bra-and-Girdle Maker That Fashioned the Impossible for NASA,science,135,19,sohkamyung,2026-04-14T23:01:54.222162
+47708818,Native Instant Space Switching on macOS,science,642,326,PaulHoule,2026-04-14T23:02:20.536719
+47728323,Relics of the Heroic Age of Manned Space Flight,science,20,1,zdgeier,2026-04-14T23:03:18.066276
+47745543,New metal with triple copper's heat conduction challenges fundamental physics,science,31,13,thunderbong,2026-04-14T23:03:54.952369
+47759281,NASA Moon Base User's Guide [pdf],science,6,1,sethbannon,2026-04-14T23:04:49.833195
+47714770,Show HN: Run GUIs as Scripts,entertainment,17,6,zero-st4rs,2026-04-14T23:07:38.488188
+47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",entertainment,165,44,cvrajeesh,2026-04-14T23:08:17.737879
+47762851,Show HN: A stateful UI runtime for reactive web apps in Go,entertainment,9,4,derstruct,2026-04-14T23:08:58.306809
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,510,293,a-ve,2026-04-14T23:09:14.728650
+47757552,Show HN: Continual Learning with .md,entertainment,32,28,wenhan_zhou,2026-04-14T23:09:16.046298
+47724352,Filing the corners off my MacBooks,entertainment,1398,672,normanvalentine,2026-04-14T23:09:23.002877
+47761442,Show HN: Deflect One – command line dashboard for managing Linux servers via SSH,entertainment,6,4,whitemanv,2026-04-14T23:09:27.866428
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,54,0,mooreds,2026-04-14T23:09:40.580511
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,240,107,Rochus,2026-04-14T23:09:48.680440
+47758453,Your Favorite Movies Were CIA Propaganda [video],entertainment,34,4,joe_mamba,2026-04-14T23:10:24.174234
+47721997,Show HN: FluidCAD – Parametric CAD with JavaScript,entertainment,155,37,maouida,2026-04-14T23:11:20.344162
+47733066,New synthesis of astronomical measurements shows Hubble tension is real,entertainment,75,14,anigbrowl,2026-04-14T23:11:25.712459
+47754329,Show HN: Farchive – SQLite-backed history-preserving compressed archive,entertainment,5,0,ekns,2026-04-14T23:11:48.116449
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,176,169,randerson_112,2026-04-14T23:12:16.042128
+47722011,Show HN: A WYSIWYG word processor in Python,entertainment,91,39,chrisecker,2026-04-14T23:12:18.565242
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,48,25,behat,2026-04-14T23:12:32.105240
+47721255,Show HN: Eve – Managed OpenClaw for work,entertainment,71,39,zachdive,2026-04-14T23:12:43.225198
+47745300,Show HN: A social feed with no strangers,entertainment,9,5,rpatni,2026-04-14T23:12:45.484931
+47758287,Dear Master (an open letter from an early Facebook employee),entertainment,14,2,plonkus,2026-04-14T23:13:11.118196
+47730522,Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid,entertainment,40,21,olleeolleeollee,2026-04-14T23:13:13.532640
+47699470,The Life and Death of the Book Review,entertainment,30,7,lermontov,2026-04-14T23:13:14.762118
+47715339,Show HN: Keeper – embedded secret store for Go (help me break it),entertainment,63,33,babawere,2026-04-14T23:13:56.304695
+47736071,The Universal Standard Book Number,entertainment,13,4,novalis78,2026-04-14T23:14:16.628802
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,147,158,latchkey,2026-04-14T23:14:29.946390
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,62,12,rvitorper,2026-04-14T23:14:46.274321
